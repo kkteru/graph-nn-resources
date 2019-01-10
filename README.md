@@ -5,7 +5,7 @@
 
 ## Embedding lookup methods
 
-- Comprehensive implementation of TransX methods : OpenKE
+- Comprehensive implementation of TransX methods : [OpenKE]
 
 [Graph convolutional Network]: https://tkipf.github.io/graph-convolutional-networks/
 [How powerful are Graph Convolutions?]: https://www.inference.vc/how-powerful-are-graph-convolutions-review-of-kipf-welling-2016-2/
