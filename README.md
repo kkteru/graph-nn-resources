@@ -4,7 +4,7 @@
 - Excellent review on 'traditional' methods for relational machine learning [1]
 - Neat unifying framework for graph representation learning methods [2]
 
-# Interesting repos
+### Interesting repos
 - Comprehensive implementation of TransX methods : [OpenKE]
 - Python package for easy deep learning on graph : [dgl.ai]
 
