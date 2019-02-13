@@ -9,7 +9,7 @@
 - [TransE]
 
 ## Encoder methods 
-(i.e. embeddings are generated as a function of adjeecency matrix and inoutt features, if available)
+(i.e. embeddings are generated as a function of adjeecency matrix and input features, if available)
 - [GCN]: [How powerful are Graph Convolutions?]
 - [VGAE]
 - [R-GCN]
